@@ -1,4 +1,4 @@
-### Olá, eu sou a Janine! 👋
+### Olá, eu sou a Janine! 👩‍💻
 
 - 🌱 Cursando **Análise e Desenvolvimento de Sistemas**
 - 😄 Pronomes: **ela/dela**
