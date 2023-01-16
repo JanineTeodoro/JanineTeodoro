@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/janineteodoro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=janineteodoro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janineteodoro&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janineteodoro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janineteodoro&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Janine-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
