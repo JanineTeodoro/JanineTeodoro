@@ -22,7 +22,6 @@
   <img align="center" alt="Janine-JS" img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Janine-ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Janine-Java" img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="right" alt="Janine-avatar" height="150" width="140" style="border-radius:50px;" src="https://drive.google.com/file/d/1S24ZZenZJh5Jfj_AOPWckxjQ2fIWV9v-/view">
   
 </div>
 
